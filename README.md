@@ -9,4 +9,4 @@ Contributions are welcome and appreciated.
 
 ## License
 
-init-5 is licensed under the [MIT Licence](./LICENSE).
+Repository is licensed under the [MIT Licence](./LICENSE).
